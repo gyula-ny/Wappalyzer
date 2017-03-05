@@ -1,0 +1,8 @@
+{
+  "name": "wappalyzer-electron",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:gyula-ny/Wappalyzer.git",
+  "author": "gyula_ny <problemdog@gmail.com>",
+  "license": "GPL"
+}
