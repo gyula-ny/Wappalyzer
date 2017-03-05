@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:gyula-ny/Wappalyzer.git",
   "author": "gyula_ny <problemdog@gmail.com>",
-  "license": "GPL"
+  "license": "GPL",
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "nightmare-webrequest-addon": "^1.0.0"
+  }
 }
